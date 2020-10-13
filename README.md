@@ -38,7 +38,9 @@
 >* Irene Reboredo Gutiérrez. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
 >* Cristina Muñoz Ramos. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
 >* Saul Julià Solbes. Técnico en Cuidados Auxiliares de Enfermería del Servicio de Urgencias del Hospital Ramón y Cajal
+
 >DURACIÓN DEL CURSO: 65 horas (45 h parte teórica online y 20 h parte práctica presencial en la sede del curso).
+
 >DIRIGIDO A: médicos especialistas, médicos residentes, enfermería y otros profesionales interesados en VMNI.
 
 
