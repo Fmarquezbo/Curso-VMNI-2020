@@ -19,7 +19,7 @@
 * [Apoyo 1](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum
 * [Apoyo 2](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum
 ### ENLACES DE INTERÉS
-* [El enlace que digas](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+* [Grupo de Trabajo de Ventilación Mecánica No Invasiva](https://www.gtvmni.es/). Asociación científica multidisciplinar de profesionales sanitarios, médicos y enfermeros, con interés común en la VMNI como terapia respiratoria en la medicina de urgencias y emergencias.
 
 
 :inbox_tray: cursovmni2020@gmail.com 
@@ -29,3 +29,6 @@
 >* Irene Reboredo Gutiérrez. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
 >* Cristina Muñoz Ramos. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
 >* Saul Julià Solbes. Auxiliar de Enfermería del Servicio de Urgencias del Hospital Ramón y Cajal
+>DURACIÓN DEL CURSO: 65 horas (45 h parte teórica online y 20 h parte práctica presencial en la sede del curso)
+>DIRIGIDO A: médicos especialistas, médicos residentes, enfermería y otros profesionales interesados en VMNI
+
