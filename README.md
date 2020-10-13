@@ -23,6 +23,6 @@
 
 
 >DOCENTES:
-* Irene Reboredo Gutiérrez. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
-* Cristina Muñoz Ramos. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
-* Asier Blanco Álvarez. Auxiliar de Enfermería del Servicio de Urgencias del Hospital Ramón y Cajal
+>* Irene Reboredo Gutiérrez. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
+>* Cristina Muñoz Ramos. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
+>* Asier Blanco Álvarez. Auxiliar de Enfermería del Servicio de Urgencias del Hospital Ramón y Cajal
