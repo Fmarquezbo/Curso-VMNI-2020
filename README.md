@@ -1,7 +1,5 @@
 # Curso-VMNI-2020
 >Curso de cuidados de enfermería para pacientes sometidos a Ventilación Mecánica No Invasiva (VMNI) Terapia de Alto Flujo (TAF) y sistemas CPAP no mecánicos.
->* DURACIÓN DEL CURSO: 65 horas (45 h parte teórica online y 20 h parte práctica presencial en la sede del curso).
->* DIRIGIDO A: médicos especialistas, médicos residentes, enfermería y otros profesionales interesados en VMNI.
 <div align="center">
 		<a href="https://www.comunidad.madrid/hospital/ramonycajal/">
 			<img src="https://github.com/Fmarquezbo/Curso-VMNI-2020/blob/main/IMA%CC%81GENES_/descarga.png"/>
@@ -40,8 +38,8 @@
 >* Irene Reboredo Gutiérrez. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
 >* Cristina Muñoz Ramos. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
 >* Saul Julià Solbes. Técnico en Cuidados Auxiliares de Enfermería del Servicio de Urgencias del Hospital Ramón y Cajal
-
->DURACIÓN DEL CURSO: 65 horas (45 h parte teórica online y 20 h parte práctica presencial en la sede del curso)
+>DURACIÓN DEL CURSO: 65 horas (45 h parte teórica online y 20 h parte práctica presencial en la sede del curso).
+>DIRIGIDO A: médicos especialistas, médicos residentes, enfermería y otros profesionales interesados en VMNI.
 
 
 
