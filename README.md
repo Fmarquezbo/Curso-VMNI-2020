@@ -12,7 +12,12 @@
 ### ENCUESTAS
 * [Encuesta de conocimientos previos al curso](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 * [Encuesa de conocimientos posteriores](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+### MATERIAL BÁSICO PARA EL CURSO
+* [Presentación](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum
+* [Presentación](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum
 ### MATERIAL DE APOYO PARA EL CURSO
+* [Apoyo 1](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum
+* [Apoyo 2](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum
 ### ENLACES DE INTERÉS
 * [El enlace que digas](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
