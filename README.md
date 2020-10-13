@@ -9,14 +9,12 @@
 </div>
 
 
-### MATERIAL BÁSICO PARA EL CURSO
-* [El enlace que digas](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-* Formulario
-* Documento
+### ENCUESTAS
+* [Encuesta de conocimientos previos al curso](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+* [Encuesa de conocimientos posteriores](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 ### MATERIAL DE APOYO PARA EL CURSO
-* [El enlace que digas](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 ### ENLACES DE INTERÉS
-* [El enlace que digas](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+* [El enlace que digas](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:2016:194:FULL&from=ES). Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 
 :inbox_tray: cursovmni2020@gmail.com 
@@ -25,4 +23,4 @@
 >DOCENTES:
 >* Irene Reboredo Gutiérrez. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
 >* Cristina Muñoz Ramos. Enfermera del Servicio de Urgencias del Hospital Ramón y Cajal
->* Asier Blanco Álvarez. Auxiliar de Enfermería del Servicio de Urgencias del Hospital Ramón y Cajal
+>* Saul Julià Solbes. Auxiliar de Enfermería del Servicio de Urgencias del Hospital Ramón y Cajal
